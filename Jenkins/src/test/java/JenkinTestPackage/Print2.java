@@ -1,3 +1,4 @@
+package JenkinTestPackage;
 
 public class Print2 {
 

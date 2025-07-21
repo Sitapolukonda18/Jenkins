@@ -1,10 +1,11 @@
+package JenkinTestPackage;
 
-public class Print1 {
+public class Print3 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		System.out.println("Print1");
+		System.out.println("Print3");
 	}
 
 }
